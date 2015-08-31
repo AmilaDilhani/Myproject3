@@ -57,7 +57,7 @@ and open the template in the editor.
                     <div class="errorMessage"id="errorMessage"></div>
                
                     <div class="form-group">
-                        <label for="inputEmail">User Name</label>
+                        <label for="inputUsername">User Name</label>
                         <input type="text" name="uname" id="uname" class="form-control" placeholder="User Name">
                         </div> 
                 
